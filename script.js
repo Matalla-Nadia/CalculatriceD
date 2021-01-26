@@ -62,5 +62,6 @@ function ok (){
 
 function inverse(){
 
-	document.getElementById("div1").innerHTML = '<img src="img1.jpg" style="width:100px;" onclick="ok()"/>';
+	document.getElementById("div1").innerHTML = '<img src="img1.jpg" style="width:100
+	px;" onclick="ok()"/>';
 }
